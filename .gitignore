@@ -10,3 +10,5 @@ share
 # VS Code
 .vscode/
 
+#Env Variables
+.streamlit
