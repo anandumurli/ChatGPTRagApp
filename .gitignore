@@ -1,0 +1,12 @@
+#pyenv
+pyvenv.cfg
+.python-version
+etc
+Include
+Lib
+Scripts
+share
+
+# VS Code
+.vscode/
+
