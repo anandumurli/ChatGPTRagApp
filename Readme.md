@@ -1,6 +1,12 @@
-# ChatGPT app with RAG using StreamLit
+# ChatGPT app using StreamLit
 
 In this project we are trying to implemet a RAG chatbot using ChatGPT API. We are implementing the chatbot using streamlit, which porvides a user friendly GUI to the bot.
+
+
+## Use case - We are trying to build a chatbot that can book appointment
+
+We are trying for the bot to be able to store the information of a customer as an SQL entry into the db and "Make an appointment virtually from anywhere".
+
 
 ## How to run the project
 1) Clone the repo.

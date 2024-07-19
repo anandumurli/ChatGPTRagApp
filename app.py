@@ -30,7 +30,7 @@ def response_stream_generator(_client: OpenAI):
 
     return stream
 
-st.title("ChatGPT APP")
+st.title("Appointment Booking App")
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
